@@ -38,7 +38,7 @@ class Article:
         if isinstance(magazine, Magazine):
             self._magazine = magazine
         else:
-            raise ValueError("Magazine must be an instance of Magazine class")
+            raise ValueError("  must be an instance of Magazine class")
 
 
 class Author:
