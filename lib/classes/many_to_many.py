@@ -1,4 +1,4 @@
-# lib/classes/many_to_many.py
+
 
 class Article:
     all = []
